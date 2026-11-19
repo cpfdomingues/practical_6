@@ -1,0 +1,6 @@
+Gene_symbol	Element_type	Class	Sequence_name
+blaTEM-1	AMR	BETA-LACTAM	Beta-lactamase TEM-1
+blaOXA-1	AMR	BETA-LACTAM	Beta-lactamase OXA-1
+aac(6′)-Ib-cr	AMR	AMINOGLYCOSIDE/QUINOLONE	Aminoglycoside acetyltransferase variant
+qnrS1	AMR	QUINOLONE	Quinolone resistance protein
+sul2	AMR	SULFONAMIDE	Sulfonamide-resistant dihydropteroate synthase

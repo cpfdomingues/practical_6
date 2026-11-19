@@ -1,0 +1,6 @@
+Protein identifier	Contig id	Start	Stop	Strand	Gene symbol	Sequence name	Scope	Element type	Element subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference sequence	% Identity to reference sequence	Alignment length	Accession of closest sequence	Name of closest sequence	HMM id	HMM description
+C_protein_0001	C_contig_001	1700	2586	+	blaTEM-1	Beta-lactamase TEM-1	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	EXACT	887	887	100.00	100.00	887	SIMULATED_REF	Beta-lactamase TEM-1	NA	NA
+C_protein_0002	C_contig_001	3000	3923	-	blaOXA-1	Beta-lactamase OXA-1	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	EXACT	924	924	100.00	100.00	924	SIMULATED_REF	Beta-lactamase OXA-1	NA	NA
+C_protein_0003	C_contig_001	4300	5260	+	aac(6′)-Ib-cr	Aminoglycoside acetyltransferase variant	core	AMR	AMR	AMINOGLYCOSIDE/QUINOLONE	AMINOGLYCOSIDE/QUINOLONE	EXACT	961	961	100.00	100.00	961	SIMULATED_REF	Aminoglycoside acetyltransferase variant	NA	NA
+C_protein_0004	C_contig_001	5600	6597	-	qnrS1	Quinolone resistance protein	core	AMR	AMR	QUINOLONE	QUINOLONE	EXACT	998	998	100.00	100.00	998	SIMULATED_REF	Quinolone resistance protein	NA	NA
+C_protein_0005	C_contig_001	6900	7784	+	sul2	Sulfonamide-resistant dihydropteroate synthase	core	AMR	AMR	SULFONAMIDE	SULFONAMIDE	EXACT	885	885	100.00	100.00	885	SIMULATED_REF	Sulfonamide-resistant dihydropteroate synthase	NA	NA

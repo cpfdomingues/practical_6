@@ -1,0 +1,7 @@
+Gene_symbol	Element_type	Class	Sequence_name
+blaTEM-1	AMR	BETA-LACTAM	Beta-lactamase TEM-1
+blaCTX-M-15	AMR	BETA-LACTAM	Extended-spectrum beta-lactamase CTX-M-15
+tet(A)	AMR	TETRACYCLINE	Tetracycline efflux transporter
+sul1	AMR	SULFONAMIDE	Sulfonamide-resistant dihydropteroate synthase
+dfrA17	AMR	TRIMETHOPRIM	Trimethoprim-resistant dihydrofolate reductase
+aadA5	AMR	AMINOGLYCOSIDE	Aminoglycoside nucleotidyltransferase

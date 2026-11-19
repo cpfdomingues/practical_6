@@ -1,0 +1,3 @@
+Protein identifier	Contig id	Start	Stop	Strand	Gene symbol	Sequence name	Scope	Element type	Element subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference sequence	% Identity to reference sequence	Alignment length	Accession of closest sequence	Name of closest sequence	HMM id	HMM description
+A_protein_0001	A_contig_001	1700	2586	+	blaTEM-1	Beta-lactamase TEM-1	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	EXACT	887	887	100.00	100.00	887	SIMULATED_REF	Beta-lactamase TEM-1	NA	NA
+A_protein_0002	A_contig_001	3000	3923	-	tet(A)	Tetracycline efflux transporter	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	EXACT	924	924	100.00	100.00	924	SIMULATED_REF	Tetracycline efflux transporter	NA	NA
